@@ -1,4 +1,5 @@
 Arduino_and_I2C_LCD
+
 Overview
 This repository contains Arduino code and documentation for interfacing with an I2C (Inter-Integrated Circuit) LCD (Liquid Crystal Display). The code is designed to facilitate easy integration of I2C LCD modules with Arduino microcontrollers, providing a convenient way to display information in various Arduino projects.
 
@@ -20,11 +21,6 @@ Detailed documentation is available in the docs folder, providing information on
 Hardware Connections: Clear instructions on how to physically connect the I2C LCD to your Arduino.
 Code Configuration: Explanation of key variables and settings in the Arduino sketch for customization.
 Library Dependencies: List of required libraries and where to obtain them for seamless integration.
-Example Projects
-Explore the examples folder to find a variety of projects showcasing the capabilities of Arduino and I2C LCD displays. Each example comes with its own README file providing project-specific details.
-
-Contribution Guidelines
-Contributions are welcome! If you have improvements, bug fixes, or additional examples, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 License
 This project is licensed under the MIT License, making it open and accessible for collaboration.
@@ -32,4 +28,5 @@ This project is licensed under the MIT License, making it open and accessible fo
 Acknowledgments
 Thanks to the Arduino community for their continued support and contributions.
 Acknowledgment of any third-party libraries or resources used in the project.
+
 Feel free to fork, modify, and integrate this code into your Arduino projects. Happy coding!
